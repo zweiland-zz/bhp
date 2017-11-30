@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* Typography */
+.align-center {text-align: center;}
+.align-right {text-align: right;}
+.align-left {text-align: left;}
+
+/* Spacing */
+.margin-m   {margin:16px;}
+.margin-l   {margin:24px;}
+.margin-xl  {margin:40px;}
+.margin-xxl {margin:80px;}
